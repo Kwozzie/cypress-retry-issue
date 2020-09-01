@@ -1,0 +1,16 @@
+{
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 5000,
+  "execTimeout": 120000,
+  "numTestsKeptInMemory": 0,
+  "pageLoadTimeout": 5000,
+  "requestTimeout": 5000,
+  "responseTimeout": 5000,
+  "screenshotsFolder": "cypress/reports/screenshots",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 application (version/7.2.0)",
+  "video": false,
+  "retries": {
+    "runMode": 2,
+    "openMode": 1
+  }
+}

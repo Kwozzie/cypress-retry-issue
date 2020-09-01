@@ -1,0 +1,16 @@
+{
+  "name": "cypress-network-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cy:open": "cypress open --config viewportHeight=1024,viewportWidth=1480",
+    "cy:run": "cypress run --headless --browser electron --config viewportHeight=1024,viewportWidth=1480"
+  },
+  "author": "",
+  "license": "ISC"
+}
